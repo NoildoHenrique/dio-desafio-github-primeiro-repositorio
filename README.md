@@ -1,3 +1,8 @@
 # dio-desafio-github-primeiro-repositorio
 
-teste batata
+```java
+public class Pessoa {
+    private String nome;
+    private Integer idade;
+}
+```
